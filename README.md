@@ -1,5 +1,5 @@
 I'm Python Developer.
-I Have complete BCA (2020) From PIIT Greater Noida U.P.
+I Have complete BCA (2020) From PIIT Ghaziabad U.P.
 and done MCA (2022) from RGGI Meerut U.P.
 
 TECHNICAL SKILLS:
